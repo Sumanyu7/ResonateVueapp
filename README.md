@@ -1,4 +1,4 @@
-# contactsvue
+# ResonateVueapp
 
 ## Project setup
 ```
