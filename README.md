@@ -1,6 +1,6 @@
 # ResonateVueapp
 
-A Vue.js application containing a responsive table of contacts from https://jsonplaceholder.typicode.com/users
+A Simple Vue.js application containing a responsive table of contacts from https://jsonplaceholder.typicode.com/users
 
 ## Project setup
 ```
